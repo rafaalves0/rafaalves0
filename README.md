@@ -3,7 +3,7 @@
 💻 **Desenvolvedor Full-stack em formação**
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 
-Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente estou construindo minha base como desenvolvedor através de estudos e projetos práticos, buscando transformar conhecimento em soluções reais.
+Gosto muito de tecnologia e desenvolvimento de software. Atualmente estou construindo minha base como desenvolvedor através de estudos e projetos práticos, buscando transformar conhecimento em soluções reais.
 
 ##  Tecnologias
 
